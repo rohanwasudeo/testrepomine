@@ -1,0 +1,10 @@
+body {
+  background: linear-gradient(135deg, #e0eafc 0%, #cfdef3 100%);
+}
+h1 {
+  transition: color 0.3s;
+}
+h1:hover {
+  color: #0d6efd;
+  text-shadow: 0 2px 16px rgba(13,110,253,0.15);
+}
